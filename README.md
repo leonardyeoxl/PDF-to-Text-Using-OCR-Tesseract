@@ -1,17 +1,3 @@
-## Build
-
-Create a directory called `data` and upload pdf into the `data` directory
-
-```sh
-$ mkdir -p data
-```
-
-Build Docker Image
-
-```sh
-$ docker build -t ocr_tesseract .
-```
-
 # PDF To Text using OCR Tesseract
 
 This repository is inspired by https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
